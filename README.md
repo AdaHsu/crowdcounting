@@ -4,6 +4,14 @@
 
 ## EDA 資料探索統計圖表
 
+
+
+### 資料筆數統計表
+
+
+
+![EHUCOUNT 各場景資料筆數](eda/ScenarioRecordCounts.png)
+
 1. [資料筆數統計表](eda/RecordCounts.png)
 2. [EHUCOUNT 資料集實、虛部數值資料箱形圖](eda/box_of_real_imaginary_parts.png)
 3. [EHUCOUNT 資料集振幅、相位數值資料箱型圖](eda/box_of_amplitude_phase.png)
