@@ -10,11 +10,32 @@
 
 
 
+#### 一、EHUCOUNT 各場景資料筆數
+
 ![EHUCOUNT 各場景資料筆數](eda/ScenarioRecordCounts.png)
 
-1. [資料筆數統計表](eda/RecordCounts.png)
-2. [EHUCOUNT 資料集實、虛部數值資料箱形圖](eda/box_of_real_imaginary_parts.png)
-3. [EHUCOUNT 資料集振幅、相位數值資料箱型圖](eda/box_of_amplitude_phase.png)
+#### 二、EHUCOUNT 各場景人數類別資料筆數
+
+![EHUCOUNT 各場景人數類別資料筆數](eda/CrowdRecordCounts.png)
+
+
+
+### 資料分佈箱形圖
+
+
+
+#### 一、實、虛部
+
+![實、虛部資料箱形圖](eda/boxplot_raw_0_1.png)
+
+![振幅、相位](eda/boxplot_raw_2_3.png)
+
+
+
+
+
+
+
 4. [場景 A 中各人數的 CSI 子載波索引散佈圖](./eda/scenario/A)
 5. [場景 B 中各人數的 CSI 子載波索引散佈圖](./eda/scenario/B)
 6. [場景 C 中各人數的 CSI 子載波索引散佈圖](./eda/scenario/C)
