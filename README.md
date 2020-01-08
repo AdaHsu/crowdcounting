@@ -56,10 +56,38 @@
 
 ### 從不同角度觀察模型學習成效
 
-1. [多組抽樣種子在不同場景間的學習成效](RandomSeed.md)
-2. [多種訓練資料比例在不同場景間的學習成效](TestSize.md)
-3. [各模型在不同訓練資料比例下的學習成效](Model.md)
-4. [不同模型對不同人數類別的學習成效](Crowd.md)
+#### 多組抽樣種子在不同場景間的學習成效
+
+1. [CatBoostClassifier](RandomSeed_CatBoostClassifier.md)
+2. [DecisionTreeClassifier](RandomSeed_DecisionTreeClassifier.md)
+3. [GradientBoostingClassifier](RandomSeed_GradientBoostingClassifier.md)
+4. [KNeighborsClassifier](RandomSeed_KNeighborsClassifier.md)
+5. [LGBMClassifier](RandomSeed_LGBMClassifier.md)
+6. [LogisticRegression](RandomSeed_LogisticRegression.md)
+7. [MLPClassifier](RandomSeed_MLPClassifier.md)
+8. [RandomForestClassifier](RandomSeed_RandomForestClassifier.md)
+9. [XGBClassifier](RandomSeed_XGBClassifier.md)
+
+#### 多種訓練資料比例在不同場景間的學習成效
+
+1. [CatBoostClassifier](TestSize_CatBoostClassifier.md)
+2. [DecisionTreeClassifier](TestSize_DecisionTreeClassifier.md)
+3. [GradientBoostingClassifier](TestSize_GradientBoostingClassifier.md)
+4. [KNeighborsClassifier](TestSize_KNeighborsClassifier.md)
+5. [LGBMClassifier](TestSize_LGBMClassifier.md)
+6. [LogisticRegression](TestSize_LogisticRegression.md)
+7. [MLPClassifier](TestSize_MLPClassifier.md)
+8. [RandomForestClassifier](TestSize_RandomForestClassifier.md)
+9. [XGBClassifier](TestSize_XGBClassifier.md)
+
+#### 各模型在不同訓練資料比例下的學習成效
+
+2.  [各模型在不同訓練資料比例下的學習成效](Model.md)
+
+
+#### 不同模型對不同人數類別的學習成效
+
+3.  [不同模型對不同人數類別的學習成效](Crowd.md)
 
 ### 交叉驗證學習曲線 (K-Fold Cross Validation, k=5)
 
