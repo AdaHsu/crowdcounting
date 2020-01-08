@@ -54,6 +54,17 @@
 
 ## 訓練成果圖表
 
+### 從不同角度觀察模型學習成效
+
+1. [多組抽樣種子在不同場景間的學習成效](RandomSeed.md)
+2. [多種訓練資料比例在不同場景間的學習成效](TestSize.md)
+3. [各模型在不同訓練資料比例下的學習成效](Model.md)
+4. [不同模型對不同人數類別的學習成效](Crowd.md)
+
+### 交叉驗證學習曲線 (K-Fold Cross Validation, k=5)
+
+1. [訓練資料集學習曲線](TrainingSet.md)
+2. [驗證資料集學習曲線](ValidationSet.md)
 
 
 
