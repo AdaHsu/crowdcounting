@@ -1,0 +1,8 @@
+Sobron, Iker & Del Ser, Javier & Eizmendi, Inaki & Velez, Manuel. (2019). EHUCOUNT Dataset: WiFi CSI measurements employed for a device-free people counting framework. This database comprises the WiFi CSI measurements employed for the device-free people counting framework in the paper:
+
+I. Sobron, J. Del Ser, I. Eizmendi and M. Vélez, 
+"Device-Free People Counting in IoT Environments: New Insights, Results, and Open Challenges," 
+in IEEE Internet of Things Journal, vol. 5, no. 6, pp. 4396-4408, Dec. 2018.
+doi: 10.1109/JIOT.2018.2806990.
+
+Also available online at www.ehu.eus/tsr_radio/index.php/research-areas/data-analytics-in-wireless-networks
